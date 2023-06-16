@@ -13,3 +13,5 @@ In this activity we were asked to create two financial analysis tools:
 The first was a personal finance planner that will allow users to visualize their savings composed by investments in shares and cryptocurrencies to assess if they have enough money as an emergency fund.
 
 The second tool will is a retirement planning tool that will use the Alpaca API to fetch historical closing prices for a retirement portfolio composed of stocks and bonds, then run Monte Carlo simulations to project the portfolio performance at 30 years. You will then use the Monte Carlo data to calculate the expected portfolio returns given a specific initial investment amount.
+
+![download](https://github.com/shahp630/Financial-Planning/assets/133065460/cd840a98-3c32-4840-a2c6-c910de5d23c6)
