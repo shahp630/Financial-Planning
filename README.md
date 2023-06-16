@@ -8,6 +8,7 @@ You decided to start a FinTech consultancy firm, and you want to make a differen
 
 The credit union board wants to allow the union's members to assess their monthly personal finances, and also be able to forecast a reasonably good retirement plan based on cryptocurrencies, stocks, and bonds.
 
+
 ![download](https://github.com/shahp630/Financial-Planning/assets/133065460/cd840a98-3c32-4840-a2c6-c910de5d23c6)
 
 
@@ -18,4 +19,3 @@ The first was a personal finance planner that will allow users to visualize thei
 
 The second tool will is a retirement planning tool that will use the Alpaca API to fetch historical closing prices for a retirement portfolio composed of stocks and bonds, then run Monte Carlo simulations to project the portfolio performance at 30 years. You will then use the Monte Carlo data to calculate the expected portfolio returns given a specific initial investment amount.
 
-![download](https://github.com/shahp630/Financial-Planning/assets/133065460/cd840a98-3c32-4840-a2c6-c910de5d23c6)
