@@ -13,9 +13,11 @@ The credit union board wants to allow the union's members to assess their monthl
 
 
 
-In this activity we were asked to create two financial analysis tools:
+# What Was Created
 
-The first was a personal finance planner that will allow users to visualize their savings composed by investments in shares and cryptocurrencies to assess if they have enough money as an emergency fund.
+Two financial analysis tools with a single Jupyter notebook:
 
-The second tool will is a retirement planning tool that will use the Alpaca API to fetch historical closing prices for a retirement portfolio composed of stocks and bonds, then run Monte Carlo simulations to project the portfolio performance at 30 years. You will then use the Monte Carlo data to calculate the expected portfolio returns given a specific initial investment amount.
+1) A financial planner for emergencies. The first was a personal finance planner that will allow users to visualize their savings composed by investments in shares and cryptocurrencies to assess if they have enough money as an emergency fund. Investors can then determine if they have enough reserves for an emergency fund.
+
+2) A financial planner for retirement. The second tool is a retirement planning tool that used the Alpaca API to fetch historical closing prices for a retirement portfolio composed of stocks and bonds, then run Monte Carlo simulations to project the portfolio performance at 30 years. To do this, the tool will make an Alpaca API call via the Alpaca SDK to get historical price data for use in Monte Carlo simulations and use that to calculate the expected portfolio returns given a specific initial investment amount.
 
