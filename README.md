@@ -8,6 +8,10 @@ You decided to start a FinTech consultancy firm, and you want to make a differen
 
 The credit union board wants to allow the union's members to assess their monthly personal finances, and also be able to forecast a reasonably good retirement plan based on cryptocurrencies, stocks, and bonds.
 
+![download](https://github.com/shahp630/Financial-Planning/assets/133065460/cd840a98-3c32-4840-a2c6-c910de5d23c6)
+
+
+
 In this activity we were asked to create two financial analysis tools:
 
 The first was a personal finance planner that will allow users to visualize their savings composed by investments in shares and cryptocurrencies to assess if they have enough money as an emergency fund.
